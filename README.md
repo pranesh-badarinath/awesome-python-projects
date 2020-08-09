@@ -97,6 +97,11 @@ Resources to learn Git:
 - https://www.geeksforgeeks.org/python-while-loops/?ref=lbp
 - https://www.tutorialsteacher.com/python/random-module
 
+## References for Rock Paper Scissor
+- https://www.afiniti.com/corporate/rock-paper-scissors
+- https://www.tes.com/teaching-resource/building-a-rock-paper-scissors-game-using-scratch-11268599
+- https://www.youtube.com/watch?v=KnVwmBh1bo0
+- https://www.geeksforgeeks.org/python-program-implement-rock-paper-scissor-game/
 >## 💻&nbsp; System Requirements
 -  Git
 -  Code Editor (Visual Studio Code, Sublime Text)
