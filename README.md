@@ -123,6 +123,11 @@ Resources to learn Git:
 ## References for Alarm Clock :
 - https://www.tutorialspoint.com/python/python_gui_programming.htm
 - https://docs.python.org/3/library/datetime.html
+
+## References for Simple Calculator :
+- https://www.programiz.com/python-programming/examples/calculator
+- https://www.youtube.com/watch?v=9WPmxH4RRZ0
+
 >## 💻&nbsp; System Requirements
 -  Git
 -  Code Editor (Visual Studio Code, Sublime Text)
